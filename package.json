@@ -4,7 +4,9 @@
   "version": "0.2.4",
   "author": "Colby Fayock <hello@colbyfayock.com>",
   "dependencies": {
+    "@loadable/component": "^5.12.0",
     "gatsby": "^2.20.12",
+    "gatsby-plugin-loadable-components-ssr": "^2.0.0",
     "gatsby-plugin-react-helmet": "^3.2.1",
     "gatsby-plugin-react-leaflet": "2.0.12",
     "gatsby-plugin-resolve-src": "^2.0.0",
@@ -33,7 +35,8 @@
     "lint-staged": "^10.1.1",
     "prettier": "^2.0.2",
     "prettier-eslint": "^9.0.1",
-    "prettier-eslint-cli": "^5.0.0"
+    "prettier-eslint-cli": "^5.0.0",
+    "react-odometerjs": "^2.1.1"
   },
   "keywords": [
     "gatsby",

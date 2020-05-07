@@ -1,5 +1,6 @@
 module.exports = {
   plugins: [
+      'gatsby-plugin-loadable-components-ssr',
     'gatsby-plugin-resolve-src',
     'gatsby-plugin-sass',
     'gatsby-plugin-react-helmet',
